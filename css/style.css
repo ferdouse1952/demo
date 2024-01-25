@@ -1,0 +1,32 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    font: 30px;
+    text-shadow: 0 5px 20px rgb(95, 70, 70);
+    background-color: rgba(255, 228, 196, 0.466);
+    padding: 20px;
+}
+span{
+    color: red;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+.post{
+    height: 200px;
+    width: 400px;
+    float: left;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgb(189, 180, 180);
+}
+.img{
+    padding: 10px;
+}
